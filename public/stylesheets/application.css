@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+}
+
+1 {
+    color: red;
+    font-size: 70px;
+}
+
+p {
+    font-size: 36px;
+    color: purple;
+}
+
+p a {
+    color: orange;
+}
+
+#boba {
+    color: green;
+}
+
+.taco {
+    color: yellow;
+}
